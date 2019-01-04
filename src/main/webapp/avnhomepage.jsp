@@ -23,7 +23,7 @@ text-align: right;
 }
 p{
 color:white;
-}
+} 
 .text-center {
     text-align: center;
 	position: absolute;
